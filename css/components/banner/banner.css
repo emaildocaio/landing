@@ -1,0 +1,49 @@
+.banner {
+  height: 100vh;
+}
+
+.banner h2 {
+  font-family: Satisfy;
+  color: white;
+  font-size: 100px;
+  font-weight: 400;
+  margin-top: 0px;
+  margin-bottom: 0;
+  padding-top: 100px;
+  margin-left: 80px;
+}
+
+.h1-primeira-linha {
+  font-family: Dosis;
+  color: #ff4d01;
+  font-size: 100px;
+  margin: 5px;
+  margin-left: 80px;
+
+}
+
+.h1-segunda-linha {
+  font-family: Dosis;
+  color: #ff4d01;
+  font-size: 100px;
+  margin: 5px;
+  line-height: 36px;
+  margin-left: 80px;
+  margin-bottom: 110px;
+}
+
+.banner a {
+  background-color: #ff4d01;
+  color: white;
+  font-family: Roboto;
+  padding: 20px 40px;
+  border-radius: 5px;
+  font-size: 20px;
+  margin-left: 80px;
+  transition: 0.2s;
+}
+
+.banner a:hover {
+  opacity: 0.8;
+}
+
